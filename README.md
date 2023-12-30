@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Hoang Tong Xuan</h1>
+<h1 align="center">Hi 👋, I'm Hoang </h1>
 <h3 align="center">A mechatronics engineering from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
 - 🌱 I’m currently learning **Ho Chi Minh City University of Technology and Education**
 
 - 📫 How to reach me **hoangtongxuan18@gmail.com**
 
-- 📄 Know about my experiences: Embedded, Robotics, AI.
+- 📄 Know about my experiences Embedded, Robotics, AI.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
