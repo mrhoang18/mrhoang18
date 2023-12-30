@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hoangtongxuan18@gmail.com**
 
-- 📄 Know about my experiences Embedded, Robotics, AI.
+- 📄 Know about my experiences: Embedded, Robotics, AI.
 
 <p align="left">
 </p>
